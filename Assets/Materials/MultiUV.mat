@@ -25,13 +25,13 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: d0612119346a843ad9c2800d7311425d, type: 3}
+        m_Scale: {x: -26.8, y: 59.1}
+        m_Offset: {x: 0.01, y: 0}
     m_Ints: []
     m_Floats:
     - _UVSET: 0
     m_Colors:
-    - _BaseColor: {r: 0.50472736, g: 1, b: 0, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
