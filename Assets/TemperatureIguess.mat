@@ -59,7 +59,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Metallicness: 47.5
+    - _Metallicness: -34.4
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: -28.8
