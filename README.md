@@ -4,3 +4,6 @@ Reflection: I'd say my strengths are following along with the provided examples 
 
 Week 8 Shaders and Reflection:
 [https://docs.google.com/document/d/13lgpR_ebzywZpxYLU2mnw6r5ysuM_XiyYWMP2FiTUss/edit?usp=sharing](https://drive.google.com/file/d/16jENb8nmJdEYS4HemcGsCRdSIgLkxXtY/view?usp=sharing)
+
+Week 8 Shaders and Reflection:
+https://drive.google.com/file/d/19v6h5V7exPW0JwTYOdHIiKulPhK7fr2B/view?usp=sharing
